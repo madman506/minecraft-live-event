@@ -1,2 +1,2 @@
 # minecraft-live-event
-the worlds form the live event
+the worlds from the live event
